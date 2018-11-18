@@ -7,7 +7,7 @@ License:	GPL v3+
 Group:		Development/Tools
 Source0:	https://freedesktop.org/software/tartan/releases/tartan-%{version}.tar.xz
 # Source0-md5:	ccc5377157e2b7a9daf0cc4b2b14d055
-URL:		https://freedesktop.org/software/tartan/
+URL:		https://gitlab.freedesktop.org/tartan/tartan/wikis/home
 BuildRequires:	clang-devel >= 3.4
 BuildRequires:	glib2-devel >= 1:2.38.0
 BuildRequires:	gobject-introspection-devel >= 1.38.0
